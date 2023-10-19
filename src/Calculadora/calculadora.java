@@ -8,6 +8,8 @@ public class calculadora {
 		
 		System.out.println("1. Suma");
 		
+		System.out.println("3. Multiplicación");
+		
 	}
 
 }
